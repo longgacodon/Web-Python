@@ -1,6 +1,6 @@
 # PythonDev
 Front-end, Back-end, Full-stack Python 3.x HTLM, CSS, JS w3schools
 
-xampp mysql
+setup xampp and mysql
 
-django language
+learn django language
