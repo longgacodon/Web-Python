@@ -1,4 +1,4 @@
 # Note
 Front-end, Back-end, Full-stack Python 3.x HTLM, CSS, JS w3schools
-setup xampp and mysql
+xampp, mysql,
 learn django language
